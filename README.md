@@ -1,7 +1,7 @@
 
 
 ## Setup Guide (local)
-If you are an ubuntu
+If you are on ubuntu
 
 1. Unpack project in a directory if php is install globally any directory should okay.
 2. Create database in mysql
